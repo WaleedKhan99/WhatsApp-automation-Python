@@ -1,0 +1,21 @@
+--------------------
+Date: 30:8:2023
+Time: 1:40
+Phone number: +92 000000000
+Message: This message from Python Developer Waleed
+--------------------
+Date: 30:8:2023
+Time: 1:40
+Phone number: +92 000000000
+Message: This message from Python Developer Waleed
+--------------------
+Date: 30:8:2023
+Time: 1:43
+Phone number: +92 000000000
+Message: This message from Python Developer Waleed
+--------------------
+Date: 30:8:2023
+Time: 1:43
+Phone number: +92 000000000
+Message: This message from Python Developer Waleed
+--------------------
